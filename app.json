@@ -11,16 +11,16 @@
       "value": "ANYTHING"},
 
     "BOT_TOKEN": {"description": "Your bot token, as a string.",
-        "value": ""},
+        "7596860399:AAFIiwuADW6N0Mt8i_H4l8cfnq6oAH0OyVY": ""},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": ""},
+     "24954614": ""},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": ""},
+       "854d71e266722a054d214898c754c70b": ""},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": ""},
+       "1961291662": ""},
 
     "PREMIUM_USER": {"description": "If you are a telegram premium user then set this True",
        "value": "False"},
